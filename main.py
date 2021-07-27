@@ -20,6 +20,7 @@ def price_mine(url):
 
 
 
+rehab_costs = 0
 
 ##### INPUTS #######
 st.sidebar.header("Basic Information")
@@ -59,7 +60,6 @@ st.write('---')
 # Header of Specify Input Parameters
 # st.sidebar.header('S')
 
-rehab_costs = 0
 
 
 
